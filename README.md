@@ -176,7 +176,13 @@ DEPEND BROWSER3 BROWSER2
     Found cycle in dependencies
 
 
-## About Me
-I am TanVir Hossain. I am a Software Engineer.
+## Author
+#### M TanVir Hossain
+
+Software Engineer
+
+Sydney, Australia
+
+Email: hossain.tanvir.m@gmail.com
 
 Originally this project was done by me in April, 2017. 
